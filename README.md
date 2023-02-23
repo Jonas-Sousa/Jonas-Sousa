@@ -9,6 +9,10 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonas-Sousa&theme=gotham)
 
+  <div align='center'>
+ <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Jonas-Sousa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&ring=18fffffire=18ffff&sideNums=18ffff"></a>
+</div>
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
