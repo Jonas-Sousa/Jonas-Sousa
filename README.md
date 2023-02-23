@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18ffff&height=120&section=header"/>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jonas+Sousa;Sou+Desenvolvedor+Front+-+End;Moro+no+Rio+de+Janeiro+capital;Estou+estudando+Javascript+e+React;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
@@ -10,7 +11,7 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonas-Sousa&theme=gotham)
 
   <div align='center'>
- <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Jonas-Sousa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&ring=18fffffire=18ffff&sideNums=18ffff"></a>
+ <a href="https://github.com/Jonas-Sousa"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Jonas-Sousa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=18fffffire=18ffff&sideNums=18ffff"></a>
 </div>
 
 ### Main skills:
@@ -38,6 +39,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18ffff&height=120&section=footer"/>
 
