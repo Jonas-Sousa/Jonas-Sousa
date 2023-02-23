@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18ffff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jonas+Sousa;Sou+Desenvolvedor+Front+-+End;Moro+no+Rio+de+Janeiro+capital;Estou+estudando+Javascript+e+React;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jonas+Sousa;Sou+Desenvolvedor+Front+-+End;Moro+no+Rio+de+Janeiro+capital;Estou+estudando+Javascript+e+React;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jonas-Sousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonas Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Sousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jonas-Sousa&show_icons=true&count_private=true&hide_border=true&title_color=18ffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonas Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Sousa&layout=compact&hide_border=true&title_color=18ffff&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonas-Sousa&theme=gotham)
@@ -35,5 +35,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18ffff&height=120&section=footer"/>
 
