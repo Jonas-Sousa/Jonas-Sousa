@@ -9,6 +9,8 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonas-Sousa&theme=gotham)
 
+![Snake animation](https://github.com/Jonas-Sousa/Jonas-Sousa/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
