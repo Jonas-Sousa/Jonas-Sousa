@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18ffff&height=120&section=header"/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jonas+Sousa;Sou+Desenvolvedor+Front+-+End;Moro+no+Rio+de+Janeiro+capital;Estou+estudando+Typescript+e+React;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jonas+Sousa;Sou+Desenvolvedor+Front+-+End;Moro+no+Rio+de+Janeiro+capital;Estou+estudando+Typescript+e+Angular;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href=https://github.com/Jonas-Sousa />
