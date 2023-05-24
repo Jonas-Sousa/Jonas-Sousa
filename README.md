@@ -9,7 +9,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Sousa&layout=compact&langs_count=7&theme=gotham&&hide_border=true"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonas-Sousa&theme=gotham)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonas-Sousa&theme=gotham)
 
 
 ### Main skills:
